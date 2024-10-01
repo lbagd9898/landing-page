@@ -1,0 +1,1 @@
+This project was a landing page based off of the Odin Project's landing page assignment. I personalized the webpage to include information about sushi.
